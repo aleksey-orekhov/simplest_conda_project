@@ -1,0 +1,13 @@
+
+package:
+  name: sample_project
+  version: 0.0.1
+
+build:
+    number: 1
+	
+about:
+  home: https://anaconda.org/
+  license: Creative Commons Attribution 4.0 International License.
+  summary: 'smallest packagable project'
+
